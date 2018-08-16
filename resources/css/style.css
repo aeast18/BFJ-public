@@ -231,7 +231,7 @@ color: grey;
 
 /* Featured Project */
 .mingo{
-  background-image: url("../images/MainBackOneBlackAndWhite.PNG");
+  background-image: url("../images/MainBackOneBLackAndWhite.png");
   background-repeat: repeat;
  background-position: center;
 }
@@ -379,7 +379,7 @@ text-align: center;
 
 
 .background-aboutus {
-    background-image: url("../images/braedloaf.png");
+    background-image: url("../images/Braedloaf.png");
 }
 
 .background-aboutus h1 {
